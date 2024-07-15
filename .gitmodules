@@ -1,0 +1,8 @@
+[submodule "garrysmod_common"]
+	path = garrysmod_common
+	url = https://github.com/Livelandr/garrysmod_common/
+	branch = master-cmake
+[submodule "garrysmod_common_x64"]
+	path = garrysmod_common_x64
+	url = https://github.com/Livelandr/garrysmod_common/
+	branch = x86-64-cmake
