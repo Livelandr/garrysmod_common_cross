@@ -1,1 +1,1 @@
-"# garrysmod_common_cross" 
+# garrysmod_common_cross
